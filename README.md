@@ -1,1 +1,1 @@
-# DApp---Will---Solidarity-Smart-Contract
+# DApp-Will-Solidarity-Smart-Contract
